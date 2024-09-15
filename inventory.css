@@ -1,0 +1,152 @@
+*{
+    box-sizing: border-box;
+}
+#mainBody{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid blue;
+    text-align: center;
+    align-items: center;
+}
+.firstBox{
+    display: flex;
+    border: 1px solid red;
+    width: 100%;
+    height: 20%;
+}
+#searchButton{
+    height: 25px;
+    width: 60px;
+    color: wheat;
+    background-color: rgb(191, 102, 102);
+    border-radius: 5px;
+    margin-top: 40px;
+}
+#cart{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 50px;
+    margin-top: 20px;
+    display: flex;
+}
+#side{
+    margin-left: 90px;
+}
+#searchMe{
+    width: 180px;
+    height: 30px;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+#secondBox{
+    display: flex;
+    border: 1px solid green;
+    width: 100%;
+    height: 45%;
+}
+#shirt1{
+margin-left: 5%;
+}
+#shirt2{
+    margin-left: 10%;
+}
+#shirt3{
+    margin-left: 10%;
+}
+#shirt4{
+    margin-left: 10%;
+}
+#thirdBox{
+    height: 45%;
+    width: 100%;
+    display: flex;
+    border: 1px solid  yellow;
+}
+#shirt5{
+    margin-left: 5%;
+}
+#shirt6{
+    margin-left: 12%;
+}
+#shirt7{
+    margin-left: 11%;
+}
+#shirt8{
+    margin-left: 10%;
+}
+#fourthBox{
+    height: 45%;
+    width: 100%;
+    border: 1px solid orangered;
+    display: flex;
+}
+#jeans1{
+    margin-left: 5%;
+}
+#jeans2{
+    margin-left: 9%;
+}
+#jeans3{
+    margin-left: 11%;
+}
+#jeans4{
+    margin-left: 11%;
+}
+#fifthBox{
+    display: flex;
+    border: 1px solid gray;
+    width: 100%;
+    height: 45%;
+}
+#jeans5{
+    margin-left: 5%;
+}
+#jeans6{
+    margin-left: 11%;
+}
+#jeans7{
+    margin-left: 11%;
+}
+#jeans8{
+    margin-left: 11%;
+}
+#sixthBox{
+display: flex;
+border: 1px solid skyblue;
+height: 45%;
+width: 100%;
+}
+#shoes1{
+    margin-left: 5%;
+}
+#shoes2{
+    margin-left: 10%;
+}
+#shoes3{
+    margin-left: 10%;
+}
+#shoes4{
+    margin-left: 9%;
+}
+#seventhBox{
+    display: flex;
+    border: 1px solid teal;
+    width: 100%;
+    height: 45%;
+}
+#shoes5{
+    margin-left: 5%;
+}
+#shoes6{
+ margin-left: 10%;
+}
+#shoes7{
+    margin-left: 7%
+}
+#shoes8{
+    margin-left: 5%;
+}
+#searchbox{
+    display: flex;
+    gap: 5px;
+}
